@@ -32,7 +32,7 @@ Sebelum melakukan pembayaran, hubungi dahulu owner https://wa.me/6285755495437
 ├「 *Premium* 」
 ├ *1 Bulan*: Rp.5.000
 │
-└──「 *I C Z A* 」 
+└──「 *N A R A* 」 
     
 ┌──「 *P A Y M E N T* 」
 │
@@ -40,7 +40,7 @@ Sebelum melakukan pembayaran, hubungi dahulu owner https://wa.me/6285755495437
 ├ *Gopay:* 6285895618295
 ├ *Pulsa:* 6285895618295 (+5k)
 │
-└──「 *I C Z A* 」 
+└──「 *N A R A* 」 
     
 *NOTE:* Untuk Pulsa Akan Dikenakan Tambahan Rp.5.000`
 }
@@ -49,15 +49,15 @@ return `┌──「 *D O N A T E* 」
 │
 ├ Beri Semangat Owner!
 │
-├ *Dana:* 6285895618295
-├ *Gopay:* 6285895618295
-├ *Pulsa:* 6285895618295 (+5k)
+├ *Dana:* 6282120090746
+├ *Gopay:* 6282120090746
+├ *Pulsa:* 6282120090746 (+5k)
 │
-└──「 *I C Z A* 」 `
+└──「 *N A R A* 」 `
 
 }
 exports.menu = (prefix, salam, time) => {
-return `┌──「 *I C Z A* 」
+return `┌──「 *N A R A* 」
 ├ *Selamat ${salam}*
 ├ *${time}*
 │
@@ -139,7 +139,7 @@ return `┌──「 *I C Z A* 」
 │
 │ *ᶜᵒᵈᵉ ʷⁱᵗʰ ˡᵒᵛᵉ ᶠʳᵒᵐ ˢⁱᵈᵒᵃʳʲᵒ ❤*
 │
-└──「 *I C H I* 」 `
+└──「 *N A R A* 」 `
 
 }
 
