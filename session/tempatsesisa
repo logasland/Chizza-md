@@ -30,8 +30,8 @@
           "type": "Buffer",
           "data": "aKiy4u8hTEPinsWDot0weTP+XXK8DQZVC07pECth7xA="
         }
-      },
-      "signature": {
+    
+ure": {
         "type": "Buffer",
         "data": "NLbEW45+GR3ZicDfRKim2lJvVUZ85VIbPKUpzuwTVDP+tHranWWM22f++HMgJMC+l1HZNEwZ3lGJ+SU3sGFcAQ=="
       },
@@ -42,7 +42,7 @@
     "nextPreKeyId": 38,
     "firstUnuploadedPreKeyId": 38,
     "serverHasPreKeys": true,
-    "account": {
+    "account":
       "details": "CLDQokoQuObpmgYYBQ==",
       "accountSignatureKey": "cm6H2ILmQalVqhicRna8tCGaMJrklfd/pPvmnijkdw4=",
       "accountSignature": "/4RVL+ZsB7vRZwn/IPW74cqr4jCgmdhVAK2+y0ytbzoEdRBUNgnHT0lmVddyr47AqCbK+g3+f2I8HFLjhm5DAA==",
@@ -93,7 +93,7 @@
       "3": {
         "private": {
           "type": "Buffer",
-          "data": "oC3gngrC2gR8rAJ8CkEI11xusabUGrkmWJ+70RNXjHg="
+          "data": "+70RNXjHg="
         },
         "public": {
           "type": "Buffer",
